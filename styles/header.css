@@ -24,7 +24,7 @@ header {
 }
 
 .imageLogo {
-  width: 2.8rem;
+  width: 4.2rem;
 }
 
 nav ul {
@@ -36,7 +36,7 @@ nav ul {
 
 nav a {
   color: #f2bd1d;
-  font-size: .8rem;
+  font-size: 1.2rem;
   text-shadow: 2px 2px 2px #000;
   padding: 0.8rem;
   border-radius: 0.8rem;
@@ -55,7 +55,7 @@ nav a:hover {
 }
 
 .boxSlogan {
-  max-width: 28rem;
+  max-width: 32rem;
   display: flex;
   flex-direction: column;
   flex: 1;
@@ -63,7 +63,7 @@ nav a:hover {
 }
 
 .boxSlogan h1 {
-  font-size: 1.6rem;
+  font-size: 2rem;
   font-weight: 500;
   text-shadow: 1px 1px 2px #0002;
   white-space: nowrap;
@@ -72,7 +72,7 @@ nav a:hover {
 }
 
 .boxSlogan p {
-  font-size: .8rem;
+  font-size: 1.2rem;
   text-shadow: 1px 1px 2px #0002;
   animation: fadeIn 1s;
 }
@@ -80,7 +80,7 @@ nav a:hover {
 .boxSlogan button {
   padding: 0.6rem;
   border-radius: 1.2rem;
-  width: 8rem;
+  width: 10rem;
   background: #f2bd1d;
   color: white;
   font-weight: 700;
@@ -98,7 +98,7 @@ nav a:hover {
 }
 
 .boxImageAnimate img {
-  width: 16rem;
+  width: 21rem;
   animation: slideRightLeft 1s;
 }
 @media (max-width: 358px) {
@@ -196,7 +196,6 @@ nav a:hover {
   }
 
   .boxSlogan {
-    min-width: 64rem;
     max-width: 64rem;
     gap: 2.4rem;
   }
