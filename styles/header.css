@@ -55,7 +55,7 @@ nav a:hover {
 }
 
 .boxSlogan {
-  max-width: 32rem;
+  max-width: 28rem;
   display: flex;
   flex-direction: column;
   flex: 1;
@@ -75,7 +75,6 @@ nav a:hover {
   font-size: .8rem;
   text-shadow: 1px 1px 2px #0002;
   animation: fadeIn 1s;
-  width: 10rem;
 }
 
 .boxSlogan button {
