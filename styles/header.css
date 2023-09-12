@@ -196,6 +196,7 @@ nav a:hover {
   }
 
   .boxSlogan {
+    min-width: 64rem;
     max-width: 64rem;
     gap: 2.4rem;
   }
