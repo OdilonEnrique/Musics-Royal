@@ -101,10 +101,39 @@ nav a:hover {
   width: 21rem;
   animation: slideRightLeft 1s;
 }
-@media (max-width: 358px) {
+@media (max-width: 413px) {
+  header{
+    padding: .8rem .8rem 0;
+  }
+
   nav a{
     font-size: .8rem;
   }
+
+  .imageLogo{
+    width: 3.2rem;
+  }
+
+  .boxSlogan{
+    gap: .8rem;
+  }
+
+  .boxSlogan h1{
+    font-size: 1rem;
+  }
+
+  .boxSlogan p{
+    font-size: .8rem;
+  }
+  .boxSlogan button{
+    width: 6rem;
+    font-size: .8rem;
+  }
+
+  .boxImageAnimate{
+    width: 17rem;
+  }
+  
 }
 
 @media (min-width: 768px) {
