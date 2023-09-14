@@ -119,19 +119,19 @@ nav a:hover {
   }
 
   .boxSlogan h1{
-    font-size: 1rem;
+    font-size: 1.6rem;
   }
 
   .boxSlogan p{
-    font-size: .8rem;
+    font-size: 1rem;
   }
   .boxSlogan button{
-    width: 6rem;
+    width: 9rem;
     font-size: .8rem;
   }
 
   .boxImageAnimate{
-    width: 17rem;
+    width: 15rem;
   }
   
 }
