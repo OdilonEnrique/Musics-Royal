@@ -116,6 +116,7 @@ nav a:hover {
 
   .boxSlogan{
     gap: .8rem;
+    padding-left: .4rem;
   }
 
   .boxSlogan h1{
@@ -124,6 +125,7 @@ nav a:hover {
 
   .boxSlogan p{
     font-size: 1rem;
+    width: 20rem;
   }
   .boxSlogan button{
     width: 9rem;
@@ -132,7 +134,8 @@ nav a:hover {
 
   .boxImageAnimate{
     width: 15rem;
-    margin-right: .4rem;
+    height: auto;
+    padding-right: .8rem;
   }
   
 }
