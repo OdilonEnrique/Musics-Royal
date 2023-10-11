@@ -68,7 +68,7 @@ nav a:hover {
   text-shadow: 1px 1px 2px #0002;
   white-space: nowrap;
   overflow: hidden;
-  animation: typing 3s 1s steps(25) both
+  animation: typing 3s 1s steps(25) both;
 }
 
 .boxSlogan p {
@@ -101,43 +101,41 @@ nav a:hover {
   width: 21rem;
   animation: slideRightLeft 1s;
 }
-@media (max-width: 413px) {
-  header{
-    padding: .8rem .8rem 0;
+@media (max-width: 440px) {
+  header {
+    padding: 0.8rem 0.8rem 0;
   }
 
-  nav a{
-    font-size: .8rem;
+  nav a {
+    font-size: 0.8rem;
   }
 
-  .imageLogo{
+  .imageLogo {
     width: 3.2rem;
   }
 
-  .boxSlogan{
-    gap: .8rem;
-    padding-left: .4rem;
+  .boxSlogan {
+    gap: 0.8rem;
+    padding-left: 0.4rem;
+    width: 250rem;
   }
 
-  .boxSlogan h1{
+  .boxSlogan h1 {
     font-size: 1.6rem;
   }
 
-  .boxSlogan p{
+  .boxSlogan p {
     font-size: 1rem;
     width: 20rem;
   }
-  .boxSlogan button{
+  .boxSlogan button {
     width: 9rem;
-    font-size: .8rem;
+    font-size: 0.8rem;
   }
 
-  .boxImageAnimate{
+  .boxImageAnimate img{
     width: 15rem;
-    height: auto;
-    padding-right: .8rem;
   }
-  
 }
 
 @media (min-width: 768px) {
@@ -145,7 +143,7 @@ nav a:hover {
     padding: 2.4rem 2.4rem 0;
   }
 
-  .musical img{
+  .musical img {
     width: 140rem;
     height: 140rem;
     bottom: -3rem;
@@ -156,11 +154,11 @@ nav a:hover {
     width: 6.4rem;
   }
 
-  nav ul{
+  nav ul {
     gap: 1.6rem;
   }
 
-  nav a{
+  nav a {
     font-size: 1.6rem;
   }
 
@@ -173,16 +171,16 @@ nav a:hover {
     gap: 2rem;
   }
 
-  .boxSlogan h1{
+  .boxSlogan h1 {
     font-size: 2.4rem;
     animation: typing 4s 1s steps(35) both;
   }
 
-  .boxSlogan p{
+  .boxSlogan p {
     font-size: 1.6rem;
   }
 
-  .boxSlogan button{
+  .boxSlogan button {
     font-size: 1.6rem;
     padding: 0.8rem;
     width: 14rem;
@@ -195,12 +193,11 @@ nav a:hover {
 }
 
 @media (min-width: 1024px) {
-
-  header{
+  header {
     padding-bottom: 1.2rem;
   }
 
-  .musical img{
+  .musical img {
     width: 190rem;
     height: 190rem;
     /* animation: rotate 20s linear infinte; */
@@ -208,19 +205,19 @@ nav a:hover {
     right: -8rem;
   }
 
-  .boxMenu{
+  .boxMenu {
     border-bottom: 1.5px solid #fff4;
   }
 
-  .imageLogo{
+  .imageLogo {
     width: 8.2rem;
   }
 
-  nav ul{
+  nav ul {
     gap: 2rem;
   }
 
-  nav a{
+  nav a {
     font-size: 2rem;
   }
 
@@ -242,21 +239,19 @@ nav a:hover {
     font-size: 2rem;
   }
 
-  .boxSlogan button{
+  .boxSlogan button {
     padding: 1rem;
     width: 18rem;
     font-size: 2rem;
     animation: pulse 1s 3.9s;
   }
 
-  .boxImageAnimate{
+  .boxImageAnimate {
     width: 30rem;
   }
 
-  .boxImageAnimate img{
+  .boxImageAnimate img {
     width: 30rem;
     height: auto;
   }
 }
-
-
