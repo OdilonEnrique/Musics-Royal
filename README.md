@@ -27,12 +27,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 -   **[CSS](https://www.w3.org/Style/CSS/Overview.en.html)**
       <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-      - Mobile-First
+    - Mobile-First
     - Responsividade
     - Animações
 ---
 
-## Link
+##  Link
 
 <ul>
     <li>
