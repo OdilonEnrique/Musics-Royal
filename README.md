@@ -4,7 +4,8 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-tecnologias">Tecnologias</a> 
+ <a href="#-tecnologias">Tecnologias</a> •
+ <a href="#-link">Link</a> 
 </p> 
 
 ## 📝 Sobre o projeto
@@ -29,4 +30,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
       - Mobile-First
     - Responsividade
     - Animações
+---
+
+## Link
+
+<ul>
+    <li>
+        <a href="https://odilonenrique.github.io/Musics-Royal/">Deploy</a>
+    </li>
+</ul>
+
 ---
