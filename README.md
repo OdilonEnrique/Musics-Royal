@@ -9,6 +9,8 @@
 
 ## 📝 Sobre o projeto
 
+<img src="./images/Image-Project.jpg" alt="Image Project">
+
 ✒️ Projeto realizado com os conhecimentos dos módulos de HTML e CSS do Curso do Desenvolvimento Web;
 
 ---
