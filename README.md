@@ -5,7 +5,7 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-tecnologias">Tecnologias</a> •
- <a href="#-link">Link</a> 
+ <a href="#link">Link</a> 
 </p> 
 
 ## 📝 Sobre o projeto
@@ -32,7 +32,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
     - Animações
 ---
 
-##  Link
+## Link
 
 <ul>
     <li>
