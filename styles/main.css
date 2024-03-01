@@ -64,7 +64,7 @@
 
 .definitionCard p {
   font-weight: 300; /*instalar largura 100 da roboto*/
-  font-size: .8rem;
+  font-size: 0.8rem;
   color: #fff9;
 }
 
@@ -186,35 +186,35 @@
   .cards {
     padding: 3.2rem 0;
   }
-  
+
   .cards h2 {
     font-size: 2.4rem;
   }
-  
+
   .barraCards {
     margin-top: 2.4rem;
     gap: 2.8rem;
   }
-  
+
   .card:last-child {
     margin-right: 0rem;
   }
-  
+
   .card {
     width: 22rem;
   }
-  
+
   .card .imageCard {
     width: 27rem;
     height: auto;
     padding: 0.8rem 3.2rem 1.6rem;
   }
-  
+
   .card h3 {
     font-size: 1.8rem;
     margin: 1.4rem 0 0.6rem;
   }
-  
+
   .card p {
     font-size: 1.6rem;
   }
@@ -224,46 +224,46 @@
     height: 28rem;
     margin: 0 1.6rem 0;
   }
-  
+
   .buttonSon {
     width: 17rem;
     height: 17rem;
   }
-  
+
   .buttonSon img {
     width: 12rem;
   }
-  
+
   .whyChooseUsContainer {
     padding: 4.2rem 3.2rem 3.2rem;
   }
-  
+
   .imageSalesPerson {
     max-width: 28rem;
   }
-  
+
   .imageSalesPerson .circle:nth-child(1) {
     height: 30.5rem;
     width: 30.5rem;
   }
-  
+
   .boxWhyChooseUs {
     margin: 1.8rem 0 1rem;
   }
-  
+
   .boxWhyChooseUs h2 {
     font-size: 2.4rem;
   }
-  
+
   .cardsWhyChooseUs {
     margin-top: 1.8rem;
     gap: 2.8rem;
   }
-  
+
   .cardWhyChooseUs {
     gap: 1.8rem;
   }
-  
+
   .cardWhyChooseUs .boxImage {
     max-width: 4.8rem;
   }
@@ -273,94 +273,94 @@
   }
 }
 
-@media (min-width:1024px) {
+@media (min-width: 1024px) {
   .cards {
-  padding: 4.2rem 0;
-}
+    padding: 4.2rem 0;
+  }
 
-.cards h2 {
-  text-align: center;
-  font-size: 3.2rem;
-}
+  .cards h2 {
+    text-align: center;
+    font-size: 3.2rem;
+  }
 
-.barraCards::-webkit-scrollbar {
-  display: none;
-}
+  .barraCards::-webkit-scrollbar {
+    display: none;
+  }
 
-.barraCards {
-  margin-top: 3.2rem;
-  gap: 3.2rem;
-}
+  .barraCards {
+    margin-top: 3.2rem;
+    gap: 3.2rem;
+  }
 
-.card:last-child {
-  margin-right: 0rem;
-}
+  .card:last-child {
+    margin-right: 0rem;
+  }
 
-.card {
-  width: 30rem;
-}
+  .card {
+    width: 30rem;
+  }
 
-.card .imageCard {
-  width: 37rem;
-  padding: 0.8rem 4.2rem 1.6rem;
-}
+  .card .imageCard {
+    width: 37rem;
+    padding: 0.8rem 4.2rem 1.6rem;
+  }
 
-.card h3 {
-  font-size: 2rem;
-  margin: 1.6rem 0 0.8rem;
-}
+  .card h3 {
+    font-size: 2rem;
+    margin: 1.6rem 0 0.8rem;
+  }
 
-.card p {
-  font-size: 1.8rem;
-}
+  .card p {
+    font-size: 1.8rem;
+  }
 
-.buttonDad {
-  width: 30rem;
-  height: 32rem;
-  margin: 0 2rem 0;
-}
+  .buttonDad {
+    width: 30rem;
+    height: 32rem;
+    margin: 0 2rem 0;
+  }
 
-.buttonSon {
-  width: 22rem;
-  height: 22rem;
-}
+  .buttonSon {
+    width: 22rem;
+    height: 22rem;
+  }
 
-.buttonSon img {
-  width: 16rem;
-}
+  .buttonSon img {
+    width: 16rem;
+  }
 
-.whyChooseUsContainer {
-  display: flex;
-}
+  .whyChooseUsContainer {
+    display: flex;
+  }
 
-.imageSalesPerson {
-  max-width: 36rem;
-}
+  .imageSalesPerson {
+    max-width: 36rem;
+  }
 
-.imageSalesPerson .circle:nth-child(1) {
-  height: 39rem;
-  width: 39rem;
-}
+  .imageSalesPerson .circle:nth-child(1) {
+    height: 39rem;
+    width: 39rem;
+  }
 
-.boxWhyChooseUs {
-  margin: 3rem 0 1.2rem;
-  margin: auto;
-}
+  .boxWhyChooseUs {
+    margin: 3rem 0 1.2rem;
+    margin: auto;
+  }
 
-.boxWhyChooseUs h2 {
-  font-size: 3.2rem;
-}
+  .boxWhyChooseUs h2 {
+    font-size: 3.2rem;
+  }
 
-.cardsWhyChooseUs {
-  margin-top: 2rem;
-  gap: 3.2rem;
-}
+  .cardsWhyChooseUs {
+    margin-top: 2rem;
+    gap: 3.2rem;
+  }
 
-.cardWhyChooseUs .boxImage {
-  max-width: 5.2rem;
-}
+  .cardWhyChooseUs .boxImage {
+    max-width: 5.2rem;
+  }
 
-.cardWhyChooseUs p {
-  font-size: 1.8rem;
-}
+  .cardWhyChooseUs p {
+    font-size: 1.8rem;
+  }
 }
